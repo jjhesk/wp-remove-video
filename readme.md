@@ -15,3 +15,13 @@ Version: 0.1.4
 License: GPL2
 Text Domain: video-removals
 Domain Path: /languages/
+
+Version history:
+
+0.1.3
+added custom field support conditioning.
+explained by looking for the specific field to check for the youtube video ID
+
+
+0.1.1
+new start
