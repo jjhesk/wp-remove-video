@@ -10,7 +10,7 @@ Description: This module will automatically detect the videos ID on youtube and 
 Author: Hesk Kam
 
 
-Author URI: http://hkmlab.wordpress.com/
+Author URI: http://hkmdev.wordpress.com/
 Version: 0.1.4
 License: GPL2
 Text Domain: video-removals
