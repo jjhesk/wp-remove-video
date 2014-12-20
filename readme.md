@@ -1,4 +1,4 @@
-Plugin Name: Video Removals
+# Video Removals
 
 
 Plugin URI: http://hkmdev.wordpress.com/
